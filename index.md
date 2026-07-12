@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Galeria Martim Moniz
 ---
 ![Galeria-Martim-Moniz](assets/images/Logo.jpg)
 
