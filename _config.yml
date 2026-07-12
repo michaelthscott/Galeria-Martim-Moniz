@@ -1,0 +1,8 @@
+title: Galeria Martim Moniz
+description:  Verdadeira História da Galeria Martim Moniz
+author: Michael T. H. Scott
+theme: minima
+baseurl: /Galeria-Martim-Moniz
+collections:
+  Galeria-Martim-Moniz:
+    output: true

@@ -1,0 +1,14 @@
+---
+layout: default
+---
+<article class="page">
+  {% if page.image %}
+    <img src="{{ page.image | relative_url }}" alt="{{ page.title }}" class="page-image">
+  {% endif %}
+
+  <div class="page-content">
+    {{ content }}
+  </div>
+  
+  {% include prev-next.html collection=page.collection %}
+</article>
