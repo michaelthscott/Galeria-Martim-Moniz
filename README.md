@@ -1,5 +1,5 @@
 # Galeria-Martim-Moniz
-![Galeria Martim Moniz](Logo.png)
+![Galeria Martim Moniz](Logo.jpg)
 #A Verdadeira História da Galeria Martim Moniz 
 ##Dito como uma cadeia de mentiras
 
