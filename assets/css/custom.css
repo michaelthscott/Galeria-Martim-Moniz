@@ -27,7 +27,7 @@ header .wrapper nav a:first-child {
   display: flex;
   justify-content: space-between;
   width: 100%;
-  margin-top: 2rem;
+  margin-top: 1rem;
   margin-bottom: 2rem;
 }
 .prev-next a {
