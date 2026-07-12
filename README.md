@@ -1,7 +1,6 @@
-# Galeria-Martim-Moniz
 ![Galeria Martim Moniz](Logo.png)
-#A Verdadeira História da Galeria Martim Moniz 
-##Dito como uma cadeia de mentiras
+# A Verdadeira História da Galeria Martim Moniz 
+## Dito como uma cadeia de mentiras
 
 **Primeira Mentira: Nascimento na Mesa de Jantar**\
 Das ironias mais minúsculas, tilintando como o mais pequeno dos sinos de fadas, emerge um ligeiro vislumbre de diversão das entranhas do lugar menos esperado. Dois engenheiros de trapézio, com nomes fundidos, voltados reciprocamente, sorriem para as suas placas enquanto a governanta omnisciente olha para o baixo do tecto. Está bem formada. Será assim.
